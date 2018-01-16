@@ -20,3 +20,6 @@ print('Hello,%s'%'world');
 print('Hi,%s,you have $%d.'%('Michael',10000));
 print('%1d-%02d'%(3,1));
 print('%.2f'%3.1415826);
+print('Age:%s.Gender:%s'%(25,True));
+print('growth rate:%d%%'%(7));
+print('Hello,{0},成绩提升了{1:.1f}%'.format('小明',17.125));
